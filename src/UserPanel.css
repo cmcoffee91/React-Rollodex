@@ -1,0 +1,10 @@
+#titleContainer{
+    display: flex;
+    flex-direction: row;
+}
+
+
+#container{
+    width: 100%;
+    padding: 8px;
+}
